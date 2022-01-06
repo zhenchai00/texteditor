@@ -1,0 +1,45 @@
+{
+    "config": {
+        "app_setting": {
+            "systemname": "PHPToJson",
+            "projectBase": "!@#$%^&*()_+-=;:'|\"\\<>?,./"
+        },
+        "database_info": {
+            "dbhost": "localhost",
+            "dbtype": "mysql",
+            "dbusername": "root",
+            "dbpassword": "",
+            "dbname": "learning123"
+        },
+        "app_info": [
+            {
+                "appname": "PHP to JSON",
+                "appurl": "phptojson.test",
+                "description": [
+                    {
+                        "longname": "ServerSideScript to JavascriptObjectNotation",
+                        "longdes": "This is the long description for the PHP to JSON app"
+                    },
+                    {
+                        "shortname": "PHP(SSS) to JSON",
+                        "shortdes": "Short description"
+                    }
+                ]
+            },
+            {
+                "appname": "Google",
+                "appurl": "https://www.google.com",
+                "description": [
+                    {
+                        "longname": "Google Search Engine Website",
+                        "longdes": "This is the long description for the Google app"
+                    },
+                    {
+                        "shortname": "Google",
+                        "shortdes": "Short descriptioasdfn"
+                    }
+                ]
+            }
+        ]
+    }
+}
